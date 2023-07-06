@@ -17,6 +17,8 @@ default:
   value: 0x01000000
 - enabled-by: riscv/kendrytek210
   value: 0x00600000
+- enabled-by: riscv/sifiveu
+  value: 0x8000000
 - enabled-by: true
   value: 0x04000000
 description: ''

@@ -22,7 +22,9 @@ default:
   - -march=rv64imafd
   - -mabi=lp64d
   - -mcmodel=medany
-- enabled-by: riscv/rv64imac
+- enabled-by: 
+  - riscv/rv64imac
+  - riscv/sifiveu
   value:
   - -march=rv64imac
   - -mabi=lp64

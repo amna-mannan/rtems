@@ -9,6 +9,7 @@ default:
 - enabled-by:
   - riscv/kendrytek210
   - riscv/frdme310arty
+  - riscv/sifiveu
   value: true
 - enabled-by: true
   value: false
