@@ -8,6 +8,8 @@ copyrights:
 default:
 - enabled-by: riscv/mpfs64imafdc
   value: 187
+- enabled-by: riscv/sifive_u
+  value: 53
 - enabled-by: true
   value: 128
 description: |
